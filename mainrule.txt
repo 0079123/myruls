@@ -32,11 +32,6 @@
 ||adashx.m.taobao.com
 ||adashbc.ut.taobao.com
 ||apd-pcdnvodstat.teg.tencent-cloud.net
-!疑似
-||appcfg-v.play.aiseet.atianqi.com
-||tv6.aiseet.atianqi.com
-||otheve-beacon6.play.aiseet.atianqi.com
-||vv6.play.aiseet.atianqi.com
 ## 酷喵影视广告规则
 ||ipm.atm.cp31.ott.cibntv.net
 ||val.atm.cp31.ott.cibntv.net
@@ -68,8 +63,6 @@
 ## 爱奇艺 奇异果广告规则
 ||t7z.cupid.ptqy.gitv.tv
 ||t7z.cupid.iqiyi.com
-## 小米电视升级屏蔽
-||upgrade.ptmi.gitv.tv
 ||## 小米视频APP广告
 ||t2.market.mi-img.com
 ||t1.market.mi-img.com
@@ -188,7 +181,3 @@
 ||ad.mi.com
 ||tat.pandora.xiaomi.com
 ||api.ad.xiaomi.com 
-# P2P
-||kjapi.peiluyou.com
-||xyajs.data.p2cdn.com
-||apd-vodp2plogin.teg.tencent-cloud.net
